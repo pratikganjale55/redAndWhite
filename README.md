@@ -39,18 +39,23 @@ This is a blog management system application built with React and Redux on the f
 
 1. Clone the repository:
 
-   ```bash
-   git clone 
+   ````bash
+   git clone https://github.com/pratikganjale55/redAndWhite
 
-   ```bash
-2 .cd blog-management-system
+   cd backend
+   npm install
 
-# Install backend dependencies
-cd backend
-npm install
 
-# Install frontend dependencies
-cd ..
-cd frontend
-npm install
+   cd frontend
+   npm install
 
+   ```
+   ````
+
+2. Open http://localhost:5173 to view it in the browser (Frontend)
+3. Open http://localhost:8080 to view it in the browser (Backend)
+
+![Signup]("./client/src/assets/Screenshot (190).png")
+![Login]("./client/src/assets/Screenshot (191).png")
+![Home]("./client/src/assets/Screenshot (192).png")
+![Profile]("./client/src/assets/Screenshot (193).png")
