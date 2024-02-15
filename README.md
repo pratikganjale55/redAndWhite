@@ -55,7 +55,7 @@ This is a blog management system application built with React and Redux on the f
 2. Open http://localhost:5173 to view it in the browser (Frontend)
 3. Open http://localhost:8080 to view it in the browser (Backend)
 
-![Signup]("./client/src/assets/Screenshot (190).png")
-![Login]("./client/src/assets/Screenshot (191).png")
-![Home]("./client/src/assets/Screenshot (192).png")
-![Profile]("./client/src/assets/Screenshot (193).png")
+![Signup](./client/src/assets/Screenshot (190).png)
+![Login](./client/src/assets/Screenshot (191).png)
+![Home](./client/src/assets/Screenshot (192).png)
+![Profile](./client/src/assets/Screenshot (193).png)
